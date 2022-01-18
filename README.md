@@ -7,7 +7,7 @@ This project helps student ask queries to mentors by log in to the application. 
 Make sure you have the latest version of Python installed.
 
 ```bash
-git clone https://github.com/Niraj84/RPS.git
+git clone https://github.com/Niraj84/Student_Mentorship.git
 ```
 
 ```bash
